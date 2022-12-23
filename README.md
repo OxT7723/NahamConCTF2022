@@ -1,5 +1,22 @@
 # NahamCom-ED-CTF-2022
 
+## Challenges
+
+### Warmups
+
+* [Arjeebee](challenges/arjeebee.md) <em>(easy)</em> 
+* [Baby's First Heartbleed](challenges/Babys-first-heartbleed.md) <em>(easy)</em> 
+* [Banjo](challenges/Banjo.md) <em>(easy)</em> 
+* [catscii](challenges/catscii.md) <em>(easy)</em> 
+* [Hashstation](challenges/Hashstation.md/) <em>(easy)</em> 
+* [Read The Rules](challenges/ReadTheRules.md) <em>(easy)</em> 
+* [Way 2 Basic](challenges/Way2Basic.md) <em>(easy)</em> 
+* Technical Support <em>(easy)</em>
+
+### Reverse Engineering
+
+* [padlock](challenges/padlock.md) <em>(easy)</em>
+
 ![image](/images/NahamConCTF2022.png)
 
 <br>
