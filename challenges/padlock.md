@@ -11,7 +11,8 @@ Downloaded the file, set it to be executable with `chmod +x padlock`, and opened
 downloaded padlock file
 used Ghidra to disassemble the file to get this
 
-```
+```c
+
 undefined8
 main(undefined8 param_1,undefined8 param_2,undefined8 param_3,undefined8 param_4,undefined8 param_5,
     undefined8 param_6)
