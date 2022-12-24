@@ -4,7 +4,7 @@
 
 ### Warmups
 
-* [Arjeebee](challenges/arjeebee.md) <em>(easy)</em> 
+* [Arjeebee](challenges/Arjeebee.md) <em>(easy)</em> 
 * [Baby's First Heartbleed](challenges/Babys-first-heartbleed.md) <em>(easy)</em> 
 * [Banjo](challenges/Banjo.md) <em>(easy)</em> 
 * [catscii](challenges/catscii.md) <em>(easy)</em> 
