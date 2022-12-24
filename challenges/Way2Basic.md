@@ -4,11 +4,4 @@
 
 ## Solution
 
-Took the bianry data and converted it to ascci using  https://www.binaryhexconverter.com/binary-to-ascii-text-converter to get a flag of `flag{90c6ebe941561cfadfae170a8f0ea252}`
-
-
-
-
-
-
-
+Took the binary data and converted it to ASCII using  https://www.binaryhexconverter.com/binary-to-ascii-text-converter to get a flag of `flag{90c6ebe941561cfadfae170a8f0ea252}`
