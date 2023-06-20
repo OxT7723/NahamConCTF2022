@@ -4,4 +4,4 @@
 
 ## Solution 
 
-A quick google search on RGB to hexadecimal lead me to http://www.javascripter.net/faq/rgbtohex.htm to get a hex value of 1337AF.  To have a flag of ```flag{1337AF}``` 
+A quick Google search on RGB to hexadecimal leads me to http://www.javascripter.net/faq/rgbtohex.htm to get a hex value of 1337AF.  To have a flag of ```flag{1337AF}``` 
