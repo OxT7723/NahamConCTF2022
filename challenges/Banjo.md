@@ -6,6 +6,6 @@
 
 ## Solution 
 
-The first hit was by going to the link for strings to wikipedia for strings (unix). Downloaded the file and ran the following command `strings banjo.jpg`.
+The first hint was going to the Wikipedia link for (Unix) strings. Downloaded the file and ran the following command `strings banjo.jpg`.
 I scrolled up looking over the output and found the flag of `flag{ce4e687e575392ae242f0e41c888de11}`
 
