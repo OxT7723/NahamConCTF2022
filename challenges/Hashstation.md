@@ -4,4 +4,4 @@
 
 ## Solution 
 
-Quick google search lead me to https://md5hashing.net/hash/sha256 and put in the hash to get a value of `awesome` to be a flag of `flag{awesome}`
+A quick Google search lead me to https://md5hashing.net/hash/sha256 and I put in the hash to get a value of `awesome` to be a flag of `flag{awesome}`
